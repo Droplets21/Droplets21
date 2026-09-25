@@ -13,8 +13,9 @@ Turbowarp Connoisseur
 |Language|Language Level|Knowledge|
 |---|---|---|
 |Scratch|High|High|
-|Python|High|Intermediate|
 |Lua|High|Intermediate|
+|C++|High|Intermediate|
 |GDscript|High|Intermediate|
+|Python|High|Intermediate|
 |HTML|High|Low|
 |Javascript|High|Low|
